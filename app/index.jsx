@@ -14,7 +14,7 @@ export default function index() {
           <StatusBar style="light" />
           <Image
             className="h-full w-full absolute"
-            source={require("../assets/images/home.jpg")}
+            source={require("../assets/images/home.png")}
           />
     
           <View
